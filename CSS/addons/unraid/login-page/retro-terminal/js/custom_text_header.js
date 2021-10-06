@@ -6,7 +6,8 @@
 // YOU MUST ESCAPE ANY SINGLE BACKSLASHES LIKE SO: \\
 
 let custom_text_header = `
-<div class="custom-text-header"> <pre>                     __                             ___       __  
+<div class="custom-text-header"> <pre>
+
  ███▄ ▄███▓ ▄▄▄        ▄████  ██▓
 ▓██▒▀█▀ ██▒▒████▄     ██▒ ▀█▒▓██▒
 ▓██    ▓██░▒██  ▀█▄  ▒██░▄▄▄░▒██▒
@@ -16,7 +17,6 @@ let custom_text_header = `
 ░  ░      ░  ▒   ▒▒ ░  ░   ░  ▒ ░
 ░      ░     ░   ▒   ░ ░   ░  ▒ ░
        ░         ░  ░      ░  ░  
-                                 
-                                                                 </pre> </div>
+</pre> </div>
 `;
 document.getElementById("login").innerHTML += custom_text_header
