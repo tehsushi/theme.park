@@ -9,7 +9,7 @@
 --main-bg-color: black;
 --body-before: #ff00001a;
 --body-after: #ff000033;
---body-animation: flicker;
+--body-animation: none;
 --logo: url(https://i.imgur.com/3joAoFG.png) center no-repeat;
 --text-color: #e22828;
 --input-color: #e22828;
