@@ -20,10 +20,10 @@
 --button-text-color-hover: #000;
 --button-color: #f6a301;
 --button-color-hover: #8abf33;
---selection-color: #ffffff;
+--selection-color: #8abf33;
 --custom-text-header: #e22828;
 --custom-text-header-shadow: #e22828;
---custom-text-header-animation: textflicker;
+--custom-text-header-animation: none;
 --input-font: 'Share Tech Mono', monospace;
 --text-font: 'Share Tech Mono', monospace;
 --loginbox-background-color: transparent;
