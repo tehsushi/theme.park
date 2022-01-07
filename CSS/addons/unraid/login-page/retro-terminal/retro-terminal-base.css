@@ -74,6 +74,7 @@ body::before {
     overflow: hidden;
     animation: var(--body-animation) 0.01s infinite;
     pointer-events: none;
+    
 }
 /* CRT BACKGROUND WITH LINES*/
 body::after {
